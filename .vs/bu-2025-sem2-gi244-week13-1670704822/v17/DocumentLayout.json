@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectileobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,39 +38,78 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameSettings.cs",
-              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\GameSettings.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
-              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\GameSettings.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DestroyOutOfBound.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\DestroyOutOfBound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyOutOfBound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T08:17:11.081Z",
+              "WhenOpened": "2026-04-17T09:18:06.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\Food.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\Food.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Food.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T09:14:13.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectileObjectPool.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\ProjectileObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileObjectPool.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:47:49.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwD8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:44:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AnotherObject.cs",
               "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\AnotherObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
               "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\AnotherObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA5wCEAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T08:01:30.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PersistentObject.cs",
               "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\PersistentObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
               "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\PersistentObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-17T07:55:05.517Z",
               "EditorCaption": ""

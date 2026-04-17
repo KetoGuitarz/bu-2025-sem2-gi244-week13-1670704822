@@ -6,6 +6,7 @@ public class AnotherObject : MonoBehaviour
     {
         Debug.Log(GameSettings.volume);
         GameSettings.volume = 0;
+
     }
     // Update is called once per frame
     void Update()
@@ -30,8 +31,8 @@ public class AnotherObject : MonoBehaviour
         }
         else if (Input.GetKeyDown(KeyCode.E))
         {
-            PersistentObject.staticInstance.SetInstancePrivateText("E");
-            PersistentObject.staticInstance.gameObject.name = "Big";
+            PersistentObject.GetInstance().SetInstancePrivateText("E");
+            PersistentObject.GetInstance().gameObject.name = "Big";
         }
     }
 }

@@ -9,9 +9,20 @@ public class PersistentObject : MonoBehaviour
     private string instancePrivateDebugText = "instance private";
     public string instancePublicDebugText = "instance public";
 
-    public static PersistentObject staticInstance = null;
+    private static PersistentObject staticInstance = null;
+
+    public static PersistentObject GetInstance()
+    { 
+        return staticInstance;
+    
+    }
     void Awake()
     {
+        if (staticInstance != null) 
+        { 
+            Destroy(this.gameObject);
+            return;
+        }
         DontDestroyOnLoad(gameObject);
 
         staticInstance = this;
