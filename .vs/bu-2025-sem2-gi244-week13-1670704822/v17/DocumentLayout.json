@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anotherobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|d:\\new routine\\lab quiz\\bu-2025-sem2-gi244-week13-1670704822\\assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35471B23-AE38-A157-1256-4ADA5E2C588C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSettings.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\GameSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:17:11.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnotherObject.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnotherObject.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\AnotherObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnotherObject.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wCEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T08:01:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersistentObject.cs",
+              "DocumentMoniker": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentObject.cs",
+              "ToolTip": "D:\\New Routine\\Lab Quiz\\bu-2025-sem2-gi244-week13-1670704822\\Assets\\Scripts\\PersistentObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T07:55:05.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
